@@ -7,6 +7,7 @@ Itamae recipe plugin for configure timezone.
 ### Platform
 
 - RHEL/CentOS 6
+- RHEL/CentOS 7
 
 ## Installation
 
